@@ -4,18 +4,38 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
+    competency: 5,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'Node.JS',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'React',
+    competency: 4,
+    category: ['Web Development', 'Javascript', 'Frontend'],
+  },
+  {
+    title: 'Angular',
+    competency: 4,
+    category: ['Web Development', 'Javascript', 'Frontend'],
+  },
+  {
+    title: 'AngularJS',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development', 'Javascript', 'Frontend'],
+  },
+  {
+    title: 'Vue',
+    competency: 2,
+    category: ['Web Development', 'Javascript', 'Frontend'],
+  },
+  {
+    title: 'Ionic',
+    competency: 4,
+    category: ['Mobile Development', 'Web Development', 'Javascript', 'Frontend', 'Hybrid'],
   },
   {
     title: 'Bash',
@@ -24,7 +44,7 @@ const skills = [
   },
   {
     title: 'Amazon Web Services',
-    competency: 4,
+    competency: 2,
     category: ['Web Development', 'Tools'],
   },
   {
@@ -33,7 +53,7 @@ const skills = [
     category: ['Web Development', 'Tools'],
   },
   {
-    title: 'MongoDB',
+    title: 'MongoDB/NoSQL',
     competency: 3,
     category: ['Web Development', 'Databases'],
   },
@@ -49,7 +69,7 @@ const skills = [
   },
   {
     title: 'Redis',
-    competency: 3,
+    competency: 1,
     category: ['Web Development', 'Databases'],
   },
   {
@@ -68,33 +88,23 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
-    title: 'Flask',
-    competency: 2,
-    category: ['Web Development', 'Python'],
-  },
-  {
     title: 'Git/Mercurial',
     competency: 3,
     category: ['Tools'],
   },
   {
     title: 'Kubernetes',
-    competency: 2,
+    competency: 1,
     category: ['Tools', 'Data Engineering'],
   },
   {
     title: 'Google Cloud Compute',
-    competency: 2,
+    competency: 3,
     category: ['Tools', 'Web Development'],
   },
   {
     title: 'Numpy',
     competency: 3,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Numba',
-    competency: 2,
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
@@ -109,7 +119,7 @@ const skills = [
   },
   {
     title: 'Typescript',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -119,7 +129,7 @@ const skills = [
   },
   {
     title: 'Python',
-    competency: 5,
+    competency: 4,
     category: ['Languages', 'Python'],
   },
   {
@@ -154,17 +164,17 @@ const skills = [
   },
   {
     title: 'Pandas',
-    competency: 5,
+    competency: 2,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
     title: 'Matplotlib',
-    competency: 3,
+    competency: 2,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
     title: 'Scikit-Learn',
-    competency: 4,
+    competency: 2,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
@@ -173,23 +183,13 @@ const skills = [
     category: ['Data Engineering', 'Data Science'],
   },
   {
-    title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
-  },
-  {
-    title: 'Dagster',
-    competency: 2,
-    category: ['Data Engineering', 'Python'],
-  },
-  {
     title: 'Mypy',
-    competency: 3,
+    competency: 2,
     category: ['Python'],
   },
   {
     title: 'Pylint',
-    competency: 4,
+    competency: 2,
     category: ['Data Engineering', 'Python'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));

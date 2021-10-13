@@ -9,24 +9,22 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/tk.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>Tyler Kirkpatrick</h2>
+        <p><a href="mailto:tkirkpatrick@smu.edu">tkirkpatrick@smu.edu</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Tyler. I like building things.
+        I am an SMU Computer Science graduate, Texas A&M MBA graduate, and
+        currently a Senior Software Developer at <a href="https://kirkpatrickbank.com">Kirkpatrick Bank</a>. Before that I was
+        a Software Developer at <a href="https://walmart.com">Walmart</a>
+        , and a Software Developer Intern at <a href="https://www.amerch.com/">Anderson Merchandisers</a>
+        .
       </p>
       <ul className="actions">
         <li>
