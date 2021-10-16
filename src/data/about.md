@@ -1,22 +1,20 @@
 
 # Intro
 
-Yeet
+Hello, I'm Tyler Kirkpatrick and I'm a Software Developer who likes to stay physically active with running and pickup basketball, and stay mentally active by learning new things and improving on what I already know.
 
 # Currently
 
-I'm currently finishing up the Full-Time MBA program at Texas A&M University.
-
-# Some history
-
-- Test
+I'm currently finishing up my Full-Time MBA at Texas A&M University.
 
 # I like
 
-- [Video Games](https://steamcommunity.com/profiles/76561198118074081)
+- [Video Games]
 - Running
+- Pickup Basketball
 - Playing the banjo (I still suck though)
 - [Reading](https://www.goodreads.com/user/show/141629135-tyler-kirkpatrick)
+- [Writing](https://medium.com/@tkirkpatrick404)
 - [Drawing](https://instagram.com/alliseeisbeans)
 
 # Travel / Geography
@@ -32,10 +30,12 @@ I'm currently finishing up the Full-Time MBA program at Texas A&M University.
 
 # I dream of
 
-- always learning new things
-- doing better.
-- you not checking the commit history for earlier drafts of this file.
+- Always learning new things.
+- Getting better every day.
+- One day having a nice plot of land with a garden.
 
 # Websites from people I admire
 
 - [Michael D'Angelo](https://mldangelo.com/) (I stole- borrowed this guy's website template)
+- [Henry Ruiz](https://haruiz.github.io/en/about/)
+- [Luke Wood](https://lukewood.xyz/about)
