@@ -9,9 +9,10 @@ I'm currently finishing up my Full-Time MBA at Texas A&M University.
 
 # I like
 
-- [Video Games]
+- Video Games (Rocket League)
 - Running
 - Pickup Basketball
+- Pickup Soccer
 - Playing the banjo (I still suck though)
 - [Reading](https://www.goodreads.com/user/show/141629135-tyler-kirkpatrick)
 - [Writing](https://medium.com/@tkirkpatrick404)
@@ -20,7 +21,6 @@ I'm currently finishing up my Full-Time MBA at Texas A&M University.
 # Travel / Geography
 
 - I am from originally from Arkansas.
-- I've been to ~ 6 countries, some of which I have forgotten, and many of which I would like to revisit.
 - In 2012, I visited Hungary, Austria, The Czech Republic, and Germany.
 - In 2017, I spent the summer in the United Kingdom for a study-abroad program at Oxford University.
 
