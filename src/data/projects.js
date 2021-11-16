@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Web Comic Series',
+    subtitle: 'My brother and I created a funny series of web comics called "All I See is Beans"',
+    link: 'https://www.instagram.com/alliseeisbeans/',
+    image: '/images/projects/pirates.jpeg',
+    date: '2021-04-20',
+    desc:
+      'Funny webcomics haha please clap.',
+  },
+  {
     title: 'Demographics.fun',
     subtitle: 'A website that displays U.S. demographic data, from fertility rate to income distribution.',
     link: 'https://demographics.fun',
