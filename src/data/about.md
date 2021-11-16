@@ -3,6 +3,10 @@
 
 Hello, I'm Tyler Kirkpatrick and I'm a Software Developer who likes to stay physically active with running and pickup basketball, and stay mentally active by learning new things and improving on what I already know.
 
+I believe there's more to life than sitting at your desk until 5, blanking out in front of your TV until it's time for bed, and doing it all over again the next day.
+
+That's why I love learning new things, and improving existing skills like drawing, writing, and playing the banjo. I know way too many people who just give up their hobbies and passions after graduating college. But voluntarily pursuing things that interest you molds your personality and builds several skills, many of which can improve your work performance.
+
 # Currently
 
 I'm currently finishing up my Full-Time MBA at Texas A&M University.
