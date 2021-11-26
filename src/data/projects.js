@@ -20,6 +20,15 @@ const data = [
       + 'Test, ',
   },
   {
+    title: 'Earth Meta Newsletter',
+    subtitle: 'I write about life like it\'s a video game.',
+    link: 'https://earthmeta.substack.com/',
+    image: '/images/projects/Earth_Meta_Banner.png',
+    date: '2021-06-20',
+    desc:
+      'I write about life like it\'s a video game.',
+  },
+  {
     title: 'TimeWaster',
     subtitle: 'Mobile App for iOS and Android',
     link: 'https://github.com/TylerKirkpatrick/timeWaster-mobile',
