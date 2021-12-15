@@ -19,9 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Tyler. I like building things.
-        I am an SMU Computer Science graduate, Texas A&M MBA graduate, and
-        currently a Senior Software Developer at <a href="https://kirkpatrickbank.com">Kirkpatrick Bank</a>. Before that I was
+      <p>Hi, I&apos;m Tyler. I like creating new things like software, art, and articles.
+        I am an SMU Computer Science graduate, Texas A&M MBA graduate. Before that I was
         a Software Developer at <a href="https://walmart.com">Walmart</a>
         , and a Software Developer Intern at <a href="https://www.amerch.com/">Anderson Merchandisers</a>
         .
